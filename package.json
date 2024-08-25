@@ -1,7 +1,7 @@
 {
   "name": "admc-react",
   "homepage": " https://notblankk.github.io/admc-react",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
